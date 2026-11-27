@@ -120,14 +120,14 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 ## 📊 Kod İstatistikleri
 
 <!-- ceran-loc:start -->
-> Kaynak: `ceran-loc v1.3.0` · git (.gitignore uygulandı) · 2026-08-23
+> Kaynak: `ceran-loc v1.3.0` · git (.gitignore uygulandı) · 2026-11-27
 > Hariç: ceran-loc
 
 | Dosya | Kod | Yorum | Boş | Toplam |
 |---:|---:|---:|---:|---:|
-| 1 | **87** | 0 | 31 | 118 |
+| 1 | **96** | 2 | 35 | 133 |
 
 | Uzantı | Kod | Yorum | Boş | Dosya | Pay |
 |---|---:|---:|---:|---:|---:|
-| `.md` | 87 | 0 | 31 | 1 | %100 |
+| `.md` | 96 | 2 | 35 | 1 | %100 |
 <!-- ceran-loc:end -->
